@@ -4,28 +4,26 @@ You can use the [editor on GitHub](https://github.com/tengyuanqianhuawodezuiai/1
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 自我介绍
 
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>张三</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
-    </td>
-    <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
-    </td>
-  </tr>
-</table>
+      <h1>曹舒翔</h1>
+      <p><b> 男</b></p>
+      <p><b>本科生</b></p>
+      <p><b>中国石油大学（华东）计算机科学与技术学院</b></p>
+      <p><b>邮箱：10063562401@qq.com</b></p>
+      
+   
 
 
-### Jekyll Themes
+### 我的家乡
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tengyuanqianhuawodezuiai/123/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+我来自甘肃省敦煌市，敦煌是一座千年古城，“敦煌”一词，最早见于《史记·大宛列传》中张骞给汉武帝的报告，说“始月氏居敦煌、祁连间”，公元前111年，汉朝正式设敦煌郡。古代人一般用汉语字面意义来解释“敦煌”地
+名，如东汉应邵注《汉书》中说“敦，大也。煌，盛也。”唐朝李吉甫编的《元和郡县图志》进一步发挥道：“敦，大也。以其广开西域，故以盛名。”这里有举世闻名的莫高窟，绚丽多彩的雅丹地貌，沙漠第一泉月牙泉一定让
+你感受到大自然的鬼斧神工。在这里，你可以见到美丽苍凉的大漠景观，我的家乡欢迎你们！
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 个人爱好
+喜欢看书，喜欢和朋友们打游戏，喜欢音乐，希望有机会学习钢琴。
